@@ -809,12 +809,15 @@ body {
     }
 
     .inspiration-places__card p{
-        font-size: 10px;
-        
+        font-size: 10px;        
     }
 
     .nexttrip__card{
         flex-basis: 40%;
+    }
+
+    .nexttrip__card--name h3 {
+        font-size: 18px;
     }
 
     .seasonstrip__card{
@@ -825,8 +828,16 @@ body {
         flex-basis: 40%;
     }
 
+    .iconicplaces__card--name h3 {
+        font-size: 18px;
+    }
+
     .collection__card{
         flex-basis: 40%;
+    }
+
+    .collection__card--name h3 {
+        font-size: 18px;
     }
 
     .footer__one{
